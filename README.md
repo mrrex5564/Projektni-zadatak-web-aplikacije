@@ -1,1 +1,1 @@
-# Projektni-zadatak-web-aplikacije
+# Projektni zadatak Web aplikacije
